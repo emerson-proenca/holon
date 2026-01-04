@@ -1,0 +1,8 @@
+.env
+.python-version
+.venv
+venv
+.python-version
+
+chesscom.json
+lichess.json

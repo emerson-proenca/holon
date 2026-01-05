@@ -3,6 +3,10 @@
 .venv
 venv
 .python-version
+.test.md
+test.md
 
+codeforces.json
 chesscom.json
 lichess.json
+leetcode.json

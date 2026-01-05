@@ -16,18 +16,18 @@ Monitor and sync your profile information across different websites. Get alerts 
 - [GitHub](https://docs.github.com/en/rest)
 - [Discord](https://discord.com/developers/docs)
 - [Medium](https://github.com/Medium/medium-api-docs)
-- [Chess.com](https://www.chess.com/news/view/published-data-api)
-- [Lichess.org](https://lichess.org/api)
-- [CodeForces](https://codeforces.com/apiHelp)
+- [Chess.com](https://www.chess.com/news/view/published-data-api) STARTED
+- [Lichess.org](https://lichess.org/api) STARTED
+- [CodeForces](https://codeforces.com/apiHelp) STARTED
 
 ### Tier 2 - Medium
 - [Gmail](https://developers.google.com/gmail/api)
 - [Slack](https://api.slack.com/)
 - [Reddit](https://www.reddit.com/dev/api)
-- [LeetCode](https://leetcode.com/graphql) (GraphQL, undocumented)
+- [LeetCode](https://leetcode.com/graphql) STARTED (Thanks to https://github.com/noworneverev/leetcode-api)
 - [Telegram](https://core.telegram.org/api)
 - [Mastodon](https://docs.joinmastodon.org/api/)
-- [Bluesky](https://docs.bsky.app/)
+- [Bluesky](https://docs.bsky.app/) STARTED
 
 ### Tier 3 - Hard (Facebook/Meta)
 - [Instagram](https://developers.facebook.com/docs/instagram-api) (Meta Graph API)

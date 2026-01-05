@@ -30,6 +30,11 @@ def main():
     leetcode = requests.get("https://leetcode-api-pied.vercel.app/user/Emersh0w")
     print(leetcode)
 
+    mastodom = requests.get(
+        "https://mastodon.social/api/v1/accounts/lookup?acct=emerson_proenca"
+    )
+    print(mastodom)
+
     with open("chesscom.json", "w") as f:
         f.write(str(chesscom.json()))
 
@@ -41,6 +46,9 @@ def main():
 
     with open("leetcode.json", "w") as f:
         f.write(str(leetcode.json()))
+
+    with open("mastodom.json", "w") as f:
+        f.write(str(mastodom.json()))
 
 
 if __name__ == "__main__":

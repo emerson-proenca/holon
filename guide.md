@@ -38,3 +38,10 @@ https://github.com/bluesky-social
 https://ilo.so/bluesky-did/ # emerson-proenca.bsky.social
 
 
+# MASTODOM
+https://docs.joinmastodon.org/
+https://docs.joinmastodon.org/entities/Account/#id
+https://docs.joinmastodon.org/methods/accounts/#get
+https://mastodon.social/api/v1/accounts/lookup?acct=emerson_proenca
+https://github.com/mastodon/mastodon/discussions/21156
+

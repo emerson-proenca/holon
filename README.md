@@ -26,7 +26,7 @@ Monitor and sync your profile information across different websites. Get alerts 
 - [Reddit](https://www.reddit.com/dev/api)
 - [LeetCode](https://leetcode.com/graphql) STARTED (Thanks to https://github.com/noworneverev/leetcode-api)
 - [Telegram](https://core.telegram.org/api)
-- [Mastodon](https://docs.joinmastodon.org/api/)
+- [Mastodon](https://docs.joinmastodon.org/api/) STARTED 
 - [Bluesky](https://docs.bsky.app/) STARTED
 
 ### Tier 3 - Hard (Facebook/Meta)
@@ -43,7 +43,7 @@ Monitor and sync your profile information across different websites. Get alerts 
 - StackExchange (limited data available)
 - TikTok (restricted API)
 - ICPC (no public API)
-- X/Twitter (paid API - [docs](https://developer.x.com/en/docs/x-api))
+- X/Twitter (paid API - [docs](https://developer.x.com/en/docs/x-api)) 
 
 ## Priority Platforms
 

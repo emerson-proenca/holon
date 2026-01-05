@@ -34,6 +34,7 @@ https://leetcode.com/graphql/
 # BLUESKY
 https://docs.bsky.app/docs/get-started
 https://docs.bsky.app/docs/tutorials/viewing-profiles
+https://github.com/bluesky-social
 https://ilo.so/bluesky-did/ # emerson-proenca.bsky.social
 
 
